@@ -1,0 +1,66 @@
+.body{
+    display: none
+}
+/* .modal{
+    display: none !important;
+} */
+#ascii{
+    display: inline-block;
+    background-color: black
+}
+.forever{
+    width: 100vw
+}
+
+
+.stroke{
+    -webkit-text-stroke: 0.3px white;
+}
+.purple{
+    color: #cc00f1
+}
+.purple2{
+    color: purple
+}
+.yellow{
+    color: yellow
+}
+.aqua{
+    color: aqua
+}
+.green{
+    color: #00ff00
+}
+.red{
+    color: red
+}
+.white{
+    color: white
+}
+.orange{
+    color: orange
+}
+.blue{
+    color: blue
+}
+.pink{
+    color: #ff00ca
+}
+
+.body{
+    text-align: center;
+}
+.stroke2{
+    -webkit-text-stroke: 1px white;
+}
+
+.start-pic{
+    width: 25vw
+}
+.seq-pic{
+    width: 36vw
+}
+
+iframe{
+    border: none;
+}

@@ -1,0 +1,9 @@
+{
+	"apps": [
+		{
+			"name": "Meetcutecara.com Frontend",
+			"script": "npm",
+			"args": "start"
+		}
+	]
+}
